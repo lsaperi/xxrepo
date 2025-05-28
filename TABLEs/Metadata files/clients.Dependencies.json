@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "schema": "",
+    "name": "orders",
+    "type": "TABLE"
+  }
+]
